@@ -1,6 +1,6 @@
 # Top Albums Collection
 
-## Featured Artist: Chet Baker 🎺
+## Chet Baker 🎺
 
 > **Chesney Henry Baker Jr.**  
 > 📅 **Born:** December 23, 1929 (Yale, Oklahoma, U.S.)  
