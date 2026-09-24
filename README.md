@@ -7,5 +7,5 @@ and maybe, just maybe, they’ll help someone else along the way.
 (づ｡◕‿‿◕｡)づ
 
 ### 🔗 Social Vibes
-- 🌐 [WordPress](https://opedromandrade.wordpress.com) (where I occasionally blog)
+- 🌐 [WordPress](https://opedromandrade.github.io) (where I occasionally blog)
 - 💻 [GitHub](https://github.com/opedromandrade) (code, configs, and chaos)
