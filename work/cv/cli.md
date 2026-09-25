@@ -1,5 +1,9 @@
-# 📄 Refining the Narrative
-
-I’ve been polishing my CV—tightening the content, refining the layout, and converting everything to Markdown. Using Pandoc to handle the final compilation ensures consistency and clean output across formats. Sometimes, the best way to move forward is to revisit where you started.
-
-🛠️ *Markdown + Pandoc = A cleaner, more portable resume.*
+Here are the steps to get PDF bookmarks and keep hyperlinks:
+1.  Run the command that will output your MD into a simple `.html` file:
+    ```bash
+    pandoc .\resume.md --from=gfm --standalone --css=".\resume.css" -o .\resume.html
+    ```
+2.  After having your Chromium-based browser installed, use the following (on a Windows machine):
+    ```powershell
+    & "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --headless --disable-gpu --no-pdf-header-footer --generate-pdf-document-outline --run-all-compositor-stages-before-draw --print-to-pdf="$PWD\resume.pdf" "file:///$PWD\resume.html"
+    ```
