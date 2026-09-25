@@ -1,4 +1,8 @@
 # Top Albums Collection
+*Legend:*
+*   **[ ]** = Not done / Not owned ❌
+*   **[x]** = Done / Owned (Rendered as ✅ in many viewers)
+
 ## Chet Baker 🎺
 
 > **Chesney Henry Baker Jr.**  
